@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\143902011\\source\\repos\\studentportal\\studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\143902011\\source\\repos\\studentportal\\studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\143902011\\source\\repos\\studentportal\\studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\143902011\\source\\repos\\studentportal\\studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\143902011\\source\\repos\\studentportal\\studentportal.web\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\143902011\\source\\repos\\studentportal\\studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\143902011\\source\\repos\\studentportal\\studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7933B32B-6D34-4C4F-8721-CBC1E9D820AA}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Delete.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T01:16:47.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T00:57:21.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "list.cshtml",
+              "DocumentMoniker": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Views\\Students\\list.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\list.cshtml",
+              "ToolTip": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Views\\Students\\list.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\list.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T00:37:23.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:12:36.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Students\\Add.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T00:04:01.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T00:03:20.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\143902011\\source\\repos\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:50:21.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
